@@ -1,0 +1,4 @@
+Bundle-Name: MyBlogsDynamicInclude
+Bundle-SymbolicName: com.apress.handsonliferay
+Bundle-Version: 1.0.0
+Export-Package: com.apress.handsonliferay.constants
