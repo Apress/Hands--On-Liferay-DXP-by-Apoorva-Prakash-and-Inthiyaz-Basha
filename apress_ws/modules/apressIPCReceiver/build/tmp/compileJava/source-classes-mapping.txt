@@ -1,0 +1,4 @@
+com/apress/handsonliferay/ipc/receiver/portlet/ApressIPCReceiverPortlet.java
+ com.apress.handsonliferay.ipc.receiver.portlet.ApressIPCReceiverPortlet
+com/apress/handsonliferay/ipc/receiver/constants/ApressIPCReceiverPortletKeys.java
+ com.apress.handsonliferay.ipc.receiver.constants.ApressIPCReceiverPortletKeys

@@ -1,0 +1,4 @@
+com/apress/handsonliferay/ipc/sender/portlet/ApressIPCSenderPortlet.java
+ com.apress.handsonliferay.ipc.sender.portlet.ApressIPCSenderPortlet
+com/apress/handsonliferay/ipc/sender/constants/ApressIPCSenderPortletKeys.java
+ com.apress.handsonliferay.ipc.sender.constants.ApressIPCSenderPortletKeys

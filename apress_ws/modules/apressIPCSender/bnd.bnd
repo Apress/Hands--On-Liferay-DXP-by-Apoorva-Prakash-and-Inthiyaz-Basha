@@ -1,0 +1,4 @@
+Bundle-Name: apressIPCSender
+Bundle-SymbolicName: com.apress.handsonliferay.ipc.sender
+Bundle-Version: 1.0.0
+Export-Package: com.apress.handsonliferay.ipc.sender.constants

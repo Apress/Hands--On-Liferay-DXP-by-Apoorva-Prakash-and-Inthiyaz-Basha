@@ -1,0 +1,4 @@
+Bundle-Name: apressIPCReceiver
+Bundle-SymbolicName: com.apress.handsonliferay.ipc.receiver
+Bundle-Version: 1.0.0
+Export-Package: com.apress.handsonliferay.ipc.receiver.constants
