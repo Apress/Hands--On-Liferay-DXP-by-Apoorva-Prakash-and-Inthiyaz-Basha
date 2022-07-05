@@ -1,0 +1,4 @@
+Bundle-Name: apress_messagebus
+Bundle-SymbolicName: apress_messagebus
+Bundle-Version: 1.0.0
+Export-Package: apress_messagebus.constants
