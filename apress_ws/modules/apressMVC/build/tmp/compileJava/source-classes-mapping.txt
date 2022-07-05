@@ -1,0 +1,10 @@
+com/apress/handsonliferay/portlet/ApressMVCActionCommand.java
+ com.apress.handsonliferay.portlet.ApressMVCActionCommand
+com/apress/handsonliferay/portlet/ApressMVCRenderCommand.java
+ com.apress.handsonliferay.portlet.ApressMVCRenderCommand
+com/apress/handsonliferay/portlet/ApressMVCResourceCommand.java
+ com.apress.handsonliferay.portlet.ApressMVCResourceCommand
+com/apress/handsonliferay/constants/ApressMVCPortletKeys.java
+ com.apress.handsonliferay.constants.ApressMVCPortletKeys
+com/apress/handsonliferay/portlet/ApressMVCPortlet.java
+ com.apress.handsonliferay.portlet.ApressMVCPortlet
