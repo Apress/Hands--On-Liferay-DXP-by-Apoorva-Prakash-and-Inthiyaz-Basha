@@ -1,0 +1,4 @@
+Bundle-Name: apress_scheduler
+Bundle-SymbolicName: apress_scheduler
+Bundle-Version: 1.0.0
+Export-Package: apress_scheduler.constants
