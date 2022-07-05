@@ -1,7 +1,7 @@
 package com.handsonliferay.mvccommandoverride.constants;
 
 /**
- * @author SESA556729
+ * @author Inthiyaz_Apoorva
  */
 public class MVC_Command_OverridePortletKeys {
 
