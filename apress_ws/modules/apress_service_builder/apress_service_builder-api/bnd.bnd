@@ -1,0 +1,10 @@
+Bundle-Name: apress_service_builder-api
+Bundle-SymbolicName: com.handsonliferay.apress_service_builder.api
+Bundle-Version: 1.0.0
+Export-Package:\
+	com.handsonliferay.apress_service_builder.exception,\
+	com.handsonliferay.apress_service_builder.model,\
+	com.handsonliferay.apress_service_builder.service,\
+	com.handsonliferay.apress_service_builder.service.persistence
+-check: EXPORTS
+-includeresource: META-INF/service.xml=../apress_service_builder-service/service.xml

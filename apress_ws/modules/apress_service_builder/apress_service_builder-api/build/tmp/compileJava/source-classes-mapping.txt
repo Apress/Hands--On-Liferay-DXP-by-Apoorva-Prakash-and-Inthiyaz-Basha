@@ -1,0 +1,87 @@
+com/handsonliferay/apress_service_builder/model/bookModel.java
+ com.handsonliferay.apress_service_builder.model.bookModel
+com/handsonliferay/apress_service_builder/model/bookWrapper.java
+ com.handsonliferay.apress_service_builder.model.bookWrapper
+com/handsonliferay/apress_service_builder/model/bookTable.java
+ com.handsonliferay.apress_service_builder.model.bookTable
+com/handsonliferay/apress_service_builder/service/bookServiceWrapper.java
+ com.handsonliferay.apress_service_builder.service.bookServiceWrapper
+com/handsonliferay/apress_service_builder/service/bookLocalServiceUtil.java
+ com.handsonliferay.apress_service_builder.service.bookLocalServiceUtil
+com/handsonliferay/apress_service_builder/service/bookServiceUtil.java
+ com.handsonliferay.apress_service_builder.service.bookServiceUtil
+com/handsonliferay/apress_service_builder/model/book.java
+ com.handsonliferay.apress_service_builder.model.book
+ com.handsonliferay.apress_service_builder.model.book$1
+com/handsonliferay/apress_service_builder/service/bookLocalServiceWrapper.java
+ com.handsonliferay.apress_service_builder.service.bookLocalServiceWrapper
+com/handsonliferay/apress_service_builder/service/persistence/bookPersistence.java
+ com.handsonliferay.apress_service_builder.service.persistence.bookPersistence
+com/handsonliferay/apress_service_builder/service/bookLocalService.java
+ com.handsonliferay.apress_service_builder.service.bookLocalService
+com/handsonliferay/apress_service_builder/service/bookService.java
+ com.handsonliferay.apress_service_builder.service.bookService
+com/handsonliferay/apress_service_builder/model/bookSoap.java
+ com.handsonliferay.apress_service_builder.model.bookSoap
+com/handsonliferay/apress_service_builder/exception/NoSuchbookException.java
+ com.handsonliferay.apress_service_builder.exception.NoSuchbookException
+com/handsonliferay/apress_service_builder/service/persistence/bookUtil.java
+ com.handsonliferay.apress_service_builder.service.persistence.bookUtil
+com/handsonliferay/apress_service_builder/service/EmpLocalServiceWrapper.java
+ com.handsonliferay.apress_service_builder.service.EmpLocalServiceWrapper
+com/handsonliferay/apress_service_builder/service/EmpLocalServiceUtil.java
+ com.handsonliferay.apress_service_builder.service.EmpLocalServiceUtil
+com/handsonliferay/apress_service_builder/exception/NoSuchApressBookException.java
+ com.handsonliferay.apress_service_builder.exception.NoSuchApressBookException
+com/handsonliferay/apress_service_builder/model/ApressBookTable.java
+ com.handsonliferay.apress_service_builder.model.ApressBookTable
+com/handsonliferay/apress_service_builder/model/EmpModel.java
+ com.handsonliferay.apress_service_builder.model.EmpModel
+com/handsonliferay/apress_service_builder/service/ApressBookService.java
+ com.handsonliferay.apress_service_builder.service.ApressBookService
+com/handsonliferay/apress_service_builder/model/ApressBookSoap.java
+ com.handsonliferay.apress_service_builder.model.ApressBookSoap
+com/handsonliferay/apress_service_builder/service/EmpLocalService.java
+ com.handsonliferay.apress_service_builder.service.EmpLocalService
+com/handsonliferay/apress_service_builder/service/EmpServiceWrapper.java
+ com.handsonliferay.apress_service_builder.service.EmpServiceWrapper
+com/handsonliferay/apress_service_builder/service/ApressBookServiceUtil.java
+ com.handsonliferay.apress_service_builder.service.ApressBookServiceUtil
+com/handsonliferay/apress_service_builder/model/EmpTable.java
+ com.handsonliferay.apress_service_builder.model.EmpTable
+com/handsonliferay/apress_service_builder/service/EmpServiceUtil.java
+ com.handsonliferay.apress_service_builder.service.EmpServiceUtil
+com/handsonliferay/apress_service_builder/service/persistence/EmpUtil.java
+ com.handsonliferay.apress_service_builder.service.persistence.EmpUtil
+com/handsonliferay/apress_service_builder/service/EmpService.java
+ com.handsonliferay.apress_service_builder.service.EmpService
+com/handsonliferay/apress_service_builder/service/persistence/ApressBookPersistence.java
+ com.handsonliferay.apress_service_builder.service.persistence.ApressBookPersistence
+com/handsonliferay/apress_service_builder/model/Emp.java
+ com.handsonliferay.apress_service_builder.model.Emp
+ com.handsonliferay.apress_service_builder.model.Emp$1
+com/handsonliferay/apress_service_builder/service/persistence/ApressBookUtil.java
+ com.handsonliferay.apress_service_builder.service.persistence.ApressBookUtil
+com/handsonliferay/apress_service_builder/service/ApressBookServiceWrapper.java
+ com.handsonliferay.apress_service_builder.service.ApressBookServiceWrapper
+com/handsonliferay/apress_service_builder/exception/NoSuchEmpException.java
+ com.handsonliferay.apress_service_builder.exception.NoSuchEmpException
+com/handsonliferay/apress_service_builder/model/ApressBookModel.java
+ com.handsonliferay.apress_service_builder.model.ApressBookModel
+com/handsonliferay/apress_service_builder/model/ApressBookWrapper.java
+ com.handsonliferay.apress_service_builder.model.ApressBookWrapper
+com/handsonliferay/apress_service_builder/model/EmpWrapper.java
+ com.handsonliferay.apress_service_builder.model.EmpWrapper
+com/handsonliferay/apress_service_builder/model/ApressBook.java
+ com.handsonliferay.apress_service_builder.model.ApressBook
+ com.handsonliferay.apress_service_builder.model.ApressBook$1
+com/handsonliferay/apress_service_builder/service/persistence/EmpPersistence.java
+ com.handsonliferay.apress_service_builder.service.persistence.EmpPersistence
+com/handsonliferay/apress_service_builder/model/EmpSoap.java
+ com.handsonliferay.apress_service_builder.model.EmpSoap
+com/handsonliferay/apress_service_builder/service/ApressBookLocalService.java
+ com.handsonliferay.apress_service_builder.service.ApressBookLocalService
+com/handsonliferay/apress_service_builder/service/ApressBookLocalServiceUtil.java
+ com.handsonliferay.apress_service_builder.service.ApressBookLocalServiceUtil
+com/handsonliferay/apress_service_builder/service/ApressBookLocalServiceWrapper.java
+ com.handsonliferay.apress_service_builder.service.ApressBookLocalServiceWrapper
