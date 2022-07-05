@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+
+<model-hints>
+	<model name="com.handsonliferay.apress_service_builder.model.ApressBook">
+		<field name="uuid" type="String" />
+		<field name="bookId" type="long" />
+		<field name="groupId" type="long" />
+		<field name="companyId" type="long" />
+		<field name="chapterId" type="long" />
+		<field name="chapterName" type="String" />
+		<field name="createDate" type="Date" />
+		<field name="isCoding" type="boolean" />
+	</model>
+	<model name="com.handsonliferay.apress_service_builder.model.Emp">
+		<field name="uuid" type="String" />
+		<field name="EmpId" type="long" />
+		<field name="groupId" type="long" />
+		<field name="companyId" type="long" />
+		<field name="projectId" type="long" />
+		<field name="projectName" type="String" />
+		<field name="createDate" type="Date" />
+		<field name="isCoding" type="boolean" />
+	</model>
+</model-hints>

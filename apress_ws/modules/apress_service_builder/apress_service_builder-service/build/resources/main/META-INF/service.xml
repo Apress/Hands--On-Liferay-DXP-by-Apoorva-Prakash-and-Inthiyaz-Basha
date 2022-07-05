@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<!DOCTYPE service-builder PUBLIC "-//Liferay//DTD Service Builder 7.4.0//EN" "http://www.liferay.com/dtd/liferay-service-builder_7_4_0.dtd">
+
+<service-builder dependency-injector="ds" package-path="com.handsonliferay.apress_service_builder">
+    <author>Apoorva_Inthiyaz</author>
+	<namespace>apress</namespace>
+	
+	<entity local-service="true" name="ApressBook" remote-service="true" uuid="true">
+
+		<column name="bookId" primary="true" type="long" />
+
+		<column name="groupId" type="long" />
+
+		<column name="companyId" type="long" />
+		<column name="chapterId" type="long" />
+		<column name="chapterName" type="String" />
+		<column name="createDate" type="Date" />
+		<column name="isCoding" type="boolean" />
+
+		<order by="asc">
+			<order-column name="chapterId" />
+		</order>
+
+		<!-- Finder methods -->
+
+		<finder name="IsCoding" return-type="Collection">
+			<finder-column name="isCoding" />
+		</finder>
+
+		<!-- References -->
+
+		<reference entity="AssetEntry" package-path="com.liferay.portlet.asset" />
+		<reference entity="AssetTag" package-path="com.liferay.portlet.asset" />
+	</entity>
+	<entity local-service="true" name="Emp" remote-service="true" uuid="true">
+
+		<column name="EmpId" primary="true" type="long" />
+
+		<column name="groupId" type="long" />
+
+		<column name="companyId" type="long" />
+		<column name="projectId" type="long" />
+		<column name="projectName" type="String" />
+		<column name="createDate" type="Date" />
+		<column name="isCoding" type="boolean" />
+
+		<order by="asc">
+			<order-column name="projectId" />
+		</order>
+
+		<!-- Finder methods -->
+
+		<finder name="IsCoding" return-type="Collection">
+			<finder-column name="isCoding" />
+		</finder>
+
+		<!-- References -->
+
+		<reference entity="AssetEntry" package-path="com.liferay.portlet.asset" />
+		<reference entity="AssetTag" package-path="com.liferay.portlet.asset" />
+	</entity>
+</service-builder>

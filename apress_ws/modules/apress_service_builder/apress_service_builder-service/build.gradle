@@ -1,0 +1,12 @@
+dependencies {
+	compile project(":modules:apress_service_builder:apress_service_builder-api")
+	compileOnly project(":modules:apress_service_builder:apress_service_builder-api")
+
+	compileOnly group: "com.liferay.portal", name: "release.dxp.api"
+}
+
+buildService {
+	apiDir = "../apress_service_builder-api/src/main/java"
+}
+
+group = "com.handsonliferay.apress_service_builder"

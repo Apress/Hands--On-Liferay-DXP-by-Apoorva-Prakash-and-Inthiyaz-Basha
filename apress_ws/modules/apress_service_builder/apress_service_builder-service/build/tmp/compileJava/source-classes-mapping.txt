@@ -1,0 +1,77 @@
+com/handsonliferay/apress_service_builder/service/persistence/impl/bookModelArgumentsResolver.java
+ com.handsonliferay.apress_service_builder.service.persistence.impl.bookModelArgumentsResolver
+com/handsonliferay/apress_service_builder/model/impl/ApressBookModelImpl.java
+ com.handsonliferay.apress_service_builder.model.impl.ApressBookModelImpl
+ com.handsonliferay.apress_service_builder.model.impl.ApressBookModelImpl$EscapedModelProxyProviderFunctionHolder
+com/handsonliferay/apress_service_builder/service/http/EmpServiceHttp.java
+ com.handsonliferay.apress_service_builder.service.http.EmpServiceHttp
+com/handsonliferay/apress_service_builder/service/impl/bookServiceImpl.java
+ com.handsonliferay.apress_service_builder.service.impl.bookServiceImpl
+com/handsonliferay/apress_service_builder/service/persistence/impl/EmpModelArgumentsResolver.java
+ com.handsonliferay.apress_service_builder.service.persistence.impl.EmpModelArgumentsResolver
+com/handsonliferay/apress_service_builder/model/impl/bookBaseImpl.java
+ com.handsonliferay.apress_service_builder.model.impl.bookBaseImpl
+com/handsonliferay/apress_service_builder/service/persistence/impl/ApressBookPersistenceImpl.java
+ com.handsonliferay.apress_service_builder.service.persistence.impl.ApressBookPersistenceImpl
+com/handsonliferay/apress_service_builder/service/persistence/impl/constants/apressPersistenceConstants.java
+ com.handsonliferay.apress_service_builder.service.persistence.impl.constants.apressPersistenceConstants
+com/handsonliferay/apress_service_builder/service/persistence/impl/EmpPersistenceImpl.java
+ com.handsonliferay.apress_service_builder.service.persistence.impl.EmpPersistenceImpl
+com/handsonliferay/apress_service_builder/service/base/bookServiceBaseImpl.java
+ com.handsonliferay.apress_service_builder.service.base.bookServiceBaseImpl
+com/handsonliferay/apress_service_builder/model/impl/EmpModelImpl.java
+ com.handsonliferay.apress_service_builder.model.impl.EmpModelImpl
+ com.handsonliferay.apress_service_builder.model.impl.EmpModelImpl$EscapedModelProxyProviderFunctionHolder
+com/handsonliferay/apress_service_builder/service/http/bookServiceHttp.java
+ com.handsonliferay.apress_service_builder.service.http.bookServiceHttp
+com/handsonliferay/apress_service_builder/model/impl/bookCacheModel.java
+ com.handsonliferay.apress_service_builder.model.impl.bookCacheModel
+com/handsonliferay/apress_service_builder/service/base/bookLocalServiceBaseImpl.java
+ com.handsonliferay.apress_service_builder.service.base.bookLocalServiceBaseImpl
+com/handsonliferay/apress_service_builder/service/base/EmpLocalServiceBaseImpl.java
+ com.handsonliferay.apress_service_builder.service.base.EmpLocalServiceBaseImpl
+com/handsonliferay/apress_service_builder/service/impl/EmpServiceImpl.java
+ com.handsonliferay.apress_service_builder.service.impl.EmpServiceImpl
+com/handsonliferay/apress_service_builder/service/http/EmpServiceSoap.java
+ com.handsonliferay.apress_service_builder.service.http.EmpServiceSoap
+com/handsonliferay/apress_service_builder/service/impl/EmpLocalServiceImpl.java
+ com.handsonliferay.apress_service_builder.service.impl.EmpLocalServiceImpl
+com/handsonliferay/apress_service_builder/service/persistence/impl/bookPersistenceImpl.java
+ com.handsonliferay.apress_service_builder.service.persistence.impl.bookPersistenceImpl
+com/handsonliferay/apress_service_builder/service/http/ApressBookServiceHttp.java
+ com.handsonliferay.apress_service_builder.service.http.ApressBookServiceHttp
+com/handsonliferay/apress_service_builder/service/base/EmpServiceBaseImpl.java
+ com.handsonliferay.apress_service_builder.service.base.EmpServiceBaseImpl
+com/handsonliferay/apress_service_builder/model/impl/EmpBaseImpl.java
+ com.handsonliferay.apress_service_builder.model.impl.EmpBaseImpl
+com/handsonliferay/apress_service_builder/service/http/bookServiceSoap.java
+ com.handsonliferay.apress_service_builder.service.http.bookServiceSoap
+com/handsonliferay/apress_service_builder/service/persistence/impl/ApressBookModelArgumentsResolver.java
+ com.handsonliferay.apress_service_builder.service.persistence.impl.ApressBookModelArgumentsResolver
+com/handsonliferay/apress_service_builder/model/impl/bookModelImpl.java
+ com.handsonliferay.apress_service_builder.model.impl.bookModelImpl
+ com.handsonliferay.apress_service_builder.model.impl.bookModelImpl$EscapedModelProxyProviderFunctionHolder
+com/handsonliferay/apress_service_builder/service/impl/bookLocalServiceImpl.java
+ com.handsonliferay.apress_service_builder.service.impl.bookLocalServiceImpl
+com/handsonliferay/apress_service_builder/model/impl/EmpCacheModel.java
+ com.handsonliferay.apress_service_builder.model.impl.EmpCacheModel
+com/handsonliferay/apress_service_builder/model/impl/bookImpl.java
+ com.handsonliferay.apress_service_builder.model.impl.bookImpl
+com/handsonliferay/apress_service_builder/model/impl/EmpImpl.java
+ com.handsonliferay.apress_service_builder.model.impl.EmpImpl
+com/handsonliferay/apress_service_builder/model/impl/ApressBookImpl.java
+ com.handsonliferay.apress_service_builder.model.impl.ApressBookImpl
+com/handsonliferay/apress_service_builder/service/http/ApressBookServiceSoap.java
+ com.handsonliferay.apress_service_builder.service.http.ApressBookServiceSoap
+com/handsonliferay/apress_service_builder/model/impl/ApressBookCacheModel.java
+ com.handsonliferay.apress_service_builder.model.impl.ApressBookCacheModel
+com/handsonliferay/apress_service_builder/service/base/ApressBookServiceBaseImpl.java
+ com.handsonliferay.apress_service_builder.service.base.ApressBookServiceBaseImpl
+com/handsonliferay/apress_service_builder/service/impl/ApressBookLocalServiceImpl.java
+ com.handsonliferay.apress_service_builder.service.impl.ApressBookLocalServiceImpl
+com/handsonliferay/apress_service_builder/model/impl/ApressBookBaseImpl.java
+ com.handsonliferay.apress_service_builder.model.impl.ApressBookBaseImpl
+com/handsonliferay/apress_service_builder/service/base/ApressBookLocalServiceBaseImpl.java
+ com.handsonliferay.apress_service_builder.service.base.ApressBookLocalServiceBaseImpl
+com/handsonliferay/apress_service_builder/service/impl/ApressBookServiceImpl.java
+ com.handsonliferay.apress_service_builder.service.impl.ApressBookServiceImpl
